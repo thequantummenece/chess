@@ -1,0 +1,61 @@
+Assignment -> Make Interactive chess APP which supports two player and single player game (on three difficulty).
+
+Objective ->
+- Develope a Interactive web application that allows the user to play two player chess against another player and also single player chess against an AI. feel free to use chess library in python.
+
+-The app must open to a home screen allowing two options <Single player> , <Two Player> and if user selects single player the app must ask the user for difficulty namely 1.easy 2.medium 3.hard and then proceed with the game.
+
+-when a game is finshed A pop-up must show informing about the winner and a button to again take back to home screen .
+
+Requirments ->
+
+Software Requirements:
+
+Python: You’ll be using Python to develop this application. Make sure you have the latest version installed.
+Web Framework: A web framework like Flask or Django to build the web application.
+JavaScript, HTML & CSS: For the frontend of the application, you’ll need to use JavaScript, HTML, and CSS.
+Python Libraries:
+
+python-chess: This is a chess library in Python. It’s pure Python and supports move generation, move validation, and support for common formats.
+Flask/Django: These are web frameworks for Python, which you can use to develop your web application.
+Hardware Requirements:
+
+A computer with enough processing power to run a local web server, and a modern web browser.
+Functional Requirements:
+
+The application should allow users to play a game of chess against another player or an AI.
+The application should allow users to choose between single player and two player modes.
+In single player mode, the application should allow users to choose the difficulty level (easy, medium, hard).
+The application should display a pop-up notification when a game ends, showing who the winner is and providing an option to return to the home screen.
+Non-Functional Requirements:
+
+The application should be user-friendly and intuitive to use.
+The application should have a clean and attractive user interface.
+
+Additional Features :
+User Profiles: Consider adding user profiles where players can track their progress, win-loss ratio, and other statistics. This could make the game more engaging for users.
+
+Game History: Implement a feature to save and review past games. This can be very useful, especially for those who want to improve their skills by analyzing their games.
+
+Chess Puzzles: You could add a section for chess puzzles where users can solve different chess scenarios. This can help users improve their strategic thinking.
+
+Tutorials and Learning Resources: Consider adding a tutorial for beginners. You could also provide resources for learning chess strategies.
+
+Leaderboards: Implement a leaderboard system for competitive players. This could rank players based on their performance in games against the AI.
+
+Customizable Themes: Allow users to customize the look of the chess board and pieces. This would make the app more personal and enjoyable.
+
+Sound Effects and Music: Consider adding sound effects for moves and a background music option. This can enhance the user experience.
+
+Chat Feature: If possible, add a chat feature for the two-player mode. This would allow players to communicate during the game.
+
+ 
+
+
+
+#################################################################
+
+
+
+
+
